@@ -1,0 +1,6 @@
+﻿  easyx.cpp
+D:\code\c_code\easyx_1_5\easyx_1_5\easyx.cpp(78,21): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\code\c_code\easyx_1_5\easyx_1_5\easyx.cpp(78,28): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\code\c_code\easyx_1_5\easyx_1_5\easyx.cpp(309,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\code\c_code\easyx_1_5\easyx_1_5\easyx.cpp(310,21): warning C4101: “ch”: 未引用的局部变量
+  easyx_1_5.vcxproj -> D:\code\c_code\easyx_1_5\x64\Debug\easyx_1_5.exe
