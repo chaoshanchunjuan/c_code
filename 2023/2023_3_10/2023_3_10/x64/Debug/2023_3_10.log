@@ -1,0 +1,6 @@
+﻿  2023_3_10.c
+D:\code\c_code\2023\2023_3_10\2023_3_10\2023_3_10.c(13,3): warning C4033: “GetElem”必须返回值
+D:\code\c_code\2023\2023_3_10\2023_3_10\2023_3_10.c(15,2): warning C4033: “GetElem”必须返回值
+D:\code\c_code\2023\2023_3_10\2023_3_10\2023_3_10.c(16): warning C4716: “GetElem”: 必须返回一个值
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\code\c_code\2023\2023_3_10\x64\Debug\2023_3_10.exe : fatal error LNK1120: 1 个无法解析的外部命令
